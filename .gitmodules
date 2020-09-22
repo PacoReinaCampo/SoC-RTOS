@@ -1,0 +1,6 @@
+[submodule "gnuhurd-os"]
+	path = gnuhurd-os
+	url = https://github.com/PacoReinaCampo/gnuhurd.git
+[submodule "gnulinux-os"]
+	path = gnulinux-os
+	url = https://github.com/torvalds/linux.git

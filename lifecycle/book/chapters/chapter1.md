@@ -2,6 +2,100 @@
 
 *The software plans describe the processes, procedures, methods, and standards to be used for the software certification, design, validation, verification, process assurance and configuration control.*
 
+.. ....... ........ ........ ....... .. ........... ...... .... .. ...... ..... .. ..... .... ........ ... ...... . ... .... .. ......... ........... .... .... ........ .. .... . ..... ....... .... ... ........ .... ............ .. ... ... ....... .. ...... .... ... .... ....... .. ..... ... .... ....... ... ....... ......... ..... .......... ....... ..... ....... ... ....... ... ....... ..... ..... .... . ........ .. ... ..... ......... .. ........ ..... ....... .......... .......... ... ........ .. ... ..... .. ........ ..... .......... .... ... ...... .. .....
+
+* Data Required for the Final Certification Software
+  * Problem Reports
+  * Software Accomplishment Summary
+  * Software Configuration Index
+  * Software Configuration Management Records
+  * Software Life Cycle Environment Configuration Index
+  * Software Process Assurance Records
+  * Software Verification Results
+* Data Required for the Software Development
+  * Problem Reports
+  * Programming Language
+  * Software Configuration Management Records
+  * Software Design Data
+  * Software Life Cycle Environment Configuration Index
+  * Software Process Assurance Records
+  * Software Requirements
+  * Software Requirements Design and Source Code Standards
+  * Software Review and Analysis Procedures
+  * Software Review and Analysis Results
+  * Software Tool Qualification Data
+  * Software Traceability Data
+* Data Required for the Software Planning Review
+  * Plan for Software Aspects of Certification
+  * Software Configuration Management Plan
+  * Software Design Plan
+  * Software Process Assurance Plan
+  * Software Process Assurance Records
+  * Software Requirements Design Source Code Validation and Verification and Archive Standards
+  * Software Validation Plan
+  * Software Verification Plan
+  * Supplier Management Plan
+  * Tool Qualification Plans
+* Data Required for the Software Verification
+  * Problem Reports
+  * Programming Language
+  * Software Configuration Management Records
+  * Software Design Representation Data
+  * Software Life Cycle Environment Configuration Index
+  * Software Process Assurance Records
+  * Software Requirements Data
+  * Software Tool Qualification Data
+  * Software Verification Procedures
+  * Software Verification Results
+
+.. ....... ........ ........ ....... .. ........... ...... .... .. ...... ..... .. ..... .... ........ ... ...... . ... .... .. ......... ........... .... .... ........ .. .... . ..... ....... .... ... ........ .... ............ .. ... ... ....... .. ...... .... ... .... ....... .. ..... ... .... ....... ... ....... ......... ..... .......... ....... ..... ....... ... ....... ... ....... ..... ..... .... . ........ .. ... ..... ......... .. ........ ..... ....... .......... .......... ... ........ .. ... ..... .. ........ ..... .......... .... ... ...... .. .....
+
+* Data Required for the Final Certification Software
+  * Problem Reports
+  * Software Accomplishment Summary
+  * Software Configuration Index
+  * Software Configuration Management Records
+  * Software Life Cycle Environment Configuration Index
+  * Software Process Assurance Records
+  * Software Verification Results
+* Data Required for the Software Development
+  * Problem Reports
+  * Programming Language
+  * Software Configuration Management Records
+  * Software Design Data
+  * Software Life Cycle Environment Configuration Index
+  * Software Process Assurance Records
+  * Software Requirements
+  * Software Requirements Design and Source Code Standards
+  * Software Review and Analysis Procedures
+  * Software Review and Analysis Results
+  * Software Tool Qualification Data
+  * Software Traceability Data
+* Data Required for the Software Planning Review
+  * Plan for Software Aspects of Certification
+  * Software Configuration Management Plan
+  * Software Design Plan
+  * Software Process Assurance Plan
+  * Software Process Assurance Records
+  * Software Requirements Design Source Code Validation and Verification and Archive Standards
+  * Software Validation Plan
+  * Software Verification Plan
+  * Supplier Management Plan
+  * Tool Qualification Plans
+* Data Required for the Software Verification
+  * Problem Reports
+  * Programming Language
+  * Software Configuration Management Records
+  * Software Design Representation Data
+  * Software Life Cycle Environment Configuration Index
+  * Software Process Assurance Records
+  * Software Requirements Data
+  * Software Tool Qualification Data
+  * Software Verification Procedures
+  * Software Verification Results
+
+.. ....... ........ ........ ....... .. ........... ...... .... .. ...... ..... .. ..... .... ........ ... ...... . ... .... .. ......... ........... .... .... ........ .. .... . ..... ....... .... ... ........ .... ............ .. ... ... ....... .. ...... .... ... .... ....... .. ..... ... .... ....... ... ....... ......... ..... .......... ....... ..... ....... ... ....... ... ....... ..... ..... .... . ........ .. ... ..... ......... .. ........ ..... ....... .......... .......... ... ........ .. ... ..... .. ........ ..... .......... .... ... ...... .. .....
+
 | Data Required for the Software Planning Review                                               |
 |:---------------------------------------------------------------------------------------------|
 | Plan for Software Aspects of Certification                                                   |
@@ -10,7 +104,7 @@
 | Software Verification Plan                                                                   |
 | Software Configuration Management Plan                                                       |
 | Software Process Assurance Plan                                                              |
-| Software Process Assurance Records                           |                               |
+| Software Process Assurance Records                                                           |
 | Software Requirements, Design, Source Code, Validation & Verification, and Archive Standards |
 | Tool Qualification Plans                                                                     |
 | Supplier Management Plan                                                                     |
@@ -26,7 +120,7 @@
 | Software Verification Plan                                                                   |
 | Software Configuration Management Plan                                                       |
 | Software Process Assurance Plan                                                              |
-| Software Process Assurance Records                           |                               |
+| Software Process Assurance Records                                                           |
 | Software Requirements, Design, Source Code, Validation & Verification, and Archive Standards |
 | Tool Qualification Plans                                                                     |
 | Supplier Management Plan                                                                     |

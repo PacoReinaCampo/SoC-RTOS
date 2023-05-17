@@ -1,29 +1,29 @@
-# Software Accomplishment Summary
+# Hardware Accomplishment Summary
 
 .. ....... ........ ........ ....... .. ........... ...... .... .. ...... ..... .. ..... .... ........ ... ...... . ... .... .. ......... ........... .... .... ........ .. .... . ..... ....... .... ... ........ .... ............ .. ... ... ....... .. ...... .... ... .... ....... .. ..... ... .... ....... ... ....... ......... ..... .......... ....... ..... ....... ... ....... ... ....... ..... ..... .... . ........ .. ... ..... ......... .. ........ ..... ....... .......... .......... ... ........ .. ... ..... .. ........ ..... .......... .... ... ...... .. .....
 
-| Data Required for the Final Certification Software Review |
+| Data Required for the Final Certification Hardware Review |
 |:----------------------------------------------------------|
-| Software Verification Results                             |
-| Software Life Cycle Environment Configuration Index       |
-| Software Configuration Index                              |
+| Hardware Verification Results                             |
+| Hardware Life Cycle Environment Configuration Index       |
+| Hardware Configuration Index                              |
 | Problem Reports                                           |
-| Software Configuration Management Records                 |
-| Software Process Assurance Records                        |
-| Software Accomplishment Summary                           |
-:Data Required for the Final Certification Software Review
+| Hardware Configuration Management Records                 |
+| Hardware Process Assurance Records                        |
+| Hardware Accomplishment Summary                           |
+:Data Required for the Final Certification Hardware Review
 
 .. ....... ........ ........ ....... .. ........... ...... .... .. ...... ..... .. ..... .... ........ ... ...... . ... .... .. ......... ........... .... .... ........ .. .... . ..... ....... .... ... ........ .... ............ .. ... ... ....... .. ...... .... ... .... ....... .. ..... ... .... ....... ... ....... ......... ..... .......... ....... ..... ....... ... ....... ... ....... ..... ..... .... . ........ .. ... ..... ......... .. ........ ..... ....... .......... .......... ... ........ .. ... ..... .. ........ ..... .......... .... ... ...... .. .....
 
-| Data Required for the Final Certification Software Object |
+| Data Required for the Final Certification Hardware Object |
 |:----------------------------------------------------------|
-| Software Verification Results                             |
-| Software Life Cycle Environment Configuration Index       |
-| Software Configuration Index                              |
+| Hardware Verification Results                             |
+| Hardware Life Cycle Environment Configuration Index       |
+| Hardware Configuration Index                              |
 | Problem Reports                                           |
-| Software Configuration Management Records                 |
-| Software Process Assurance Records                        |
-| Software Accomplishment Summary                           |
-:Data Required for the Final Certification Software Object
+| Hardware Configuration Management Records                 |
+| Hardware Process Assurance Records                        |
+| Hardware Accomplishment Summary                           |
+:Data Required for the Final Certification Hardware Object
 
 .. ....... ........ ........ ....... .. ........... ...... .... .. ...... ..... .. ..... .... ........ ... ...... . ... .... .. ......... ........... .... .... ........ .. .... . ..... ....... .... ... ........ .... ............ .. ... ... ....... .. ...... .... ... .... ....... .. ..... ... .... ....... ... ....... ......... ..... .......... ....... ..... ....... ... ....... ... ....... ..... ..... .... . ........ .. ... ..... ......... .. ........ ..... ....... .......... .......... ... ........ .. ... ..... .. ........ ..... .......... .... ... ...... .. .....

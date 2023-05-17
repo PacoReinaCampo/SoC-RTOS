@@ -1,1 +1,1 @@
-# Software Configuration Management Records
+# Hardware Configuration Management Records

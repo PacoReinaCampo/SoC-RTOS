@@ -1,1 +1,1 @@
-# Software Acceptance Test Criteria
+# Hardware Acceptance Test Criteria

@@ -1,6 +1,6 @@
 # SoC-RTOS
 ## QueenField
 
-![QueenField](../master/icon.jpg)
+![QueenField](../main/icon.jpg)
 
 **Operating System for a System on Chip**
